@@ -1,25 +1,4 @@
-## Used libraries
-
 """
-Just provide a list of library you used here, and write a (very short) description of their function (or why you use them). For example:
-
-* _numpy_: for data processing and utility functions.
-* _pandas_: for data processing and saving Train-and Test Sets.
-* _sklearn.metrics import det_curve, DetCurveDisplay_: for evaluation visualization
-* _sklearn.model_selection import train_test_split_: for generating training and test sets without looping.
-* _tensorflow_: for tensorflow.keras usage.
-* _tensorflow import keras_: for generating, training and testing neural Network Models.
-* _tensorflow.keras.callbacks import ModelCheckpoint_: for generating checkpoints during training of Neural Network.
-* _tensorflow.keras.layers import Input_: for setting inputs to be passed into Siamese Neural Network Model.
-* _tensorflow.keras.layers import Subtract, Lambda_: for embedding the feature maps and calculating the euclidean distance between them.
-* _tensorflow.keras.models import Model_: for Siamese Neural Network Model creation.
-* _tensorflow.keras.backend_: for utilixing keras backend functions on embedding and euclidean distance calculations.
-* _librosa_: for audio signal processing.
-* _librosa import display_: for displaying audio data.
-* _os, glob, pathlib, zipfile_: for data pre-processing.
-* _urllib.request import urlretrieve_: for fetching AudioMNIST data.
-* _matplotlib_: for data visualization
-
 Run the following line to install nighty build of sklearn before importing libraries (uninstall of old sklearn required):
 """
 
